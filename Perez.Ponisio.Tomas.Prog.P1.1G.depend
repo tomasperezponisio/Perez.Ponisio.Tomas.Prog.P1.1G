@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635201183 source:c:\users\tomas\google drive\_utn\laboratorio - programación i\perez.ponisio.tomas.prog.p1.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
